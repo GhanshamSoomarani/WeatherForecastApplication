@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_name">City Name</string>
+    <string name="enter_city_here">Enter City here</string>
+    <string name="_23">23</string>
+    <string name="condition">Condition</string>
+    <string name="today_s_weather_forcast">Today\'s Weather Forcast</string>
+    <string name="time">Time</string>
+    <string name="_20">20</string>
+    <string name="_13">13</string>
+</resources>
